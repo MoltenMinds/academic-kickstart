@@ -14,7 +14,7 @@ role: CyberSecurity Architect
 
 # Organizations/Affiliations
 organizations:
-- name: ITBA - Buenos Aires Technology Institute 
+- name: UBA - Universidad de Buenos Aires 
   url: "https://www.itba.edu.ar/"
 
 # Short bio (displayed in user profile at end of posts)
