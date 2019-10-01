@@ -63,7 +63,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Team
-- Visitors
 ---
 
 Federico started working at the age of 19 and quickly began to lead projects in the Information Security field ranging from technical implementations, risk and audit at different international company. This allowed him to develop the tools to work with senior management and technical teams as well. 

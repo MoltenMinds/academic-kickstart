@@ -62,8 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- team
-- Visitors
+- Team
 ---
 
 Daniel Azar is a Software Engineer working at the Microsoft Azure platform. His works include the VPN networking section of the Azure Portal and the Azure Email Orchestrator.
