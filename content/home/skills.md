@@ -18,7 +18,7 @@ subtitle = ""
   icon = "shield-alt"
   icon_pack = "fas"
   name = "Cybersecurity"
-  description = "100%"
+  description = "Strong focus on real SecDevOps."
   
 [[feature]]
   icon = "cloud"
@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "compress-arrows-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Integration"
+  description = "We leverage our deployments to integrate with other technologies."
 
 +++
