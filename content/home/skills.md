@@ -15,15 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "shield-alt"
+  icon_pack = "fas"
+  name = "Cybersecurity"
+  description = "100%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cloud"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Cloud"
   description = "100%"  
   
 [[feature]]
