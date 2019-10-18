@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Molten Minds"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+# hero_media = "home/hero-bg.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,15 +18,15 @@ hero_media = "hero-academic.png"
 
   # Background color.
   # color = "navy"
-  
-  # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-  
-  # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
+  # Background gradient.
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
+
+  # Background image.
+   image = "home/hero-bg.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_parallax=false
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -38,7 +38,7 @@ hero_media = "hero-academic.png"
   label = "Get in touch"
   icon_pack = "fas"
   icon = "envelope"
-  
+
 [cta_alt]
   url = "#people"
   label = "Meet us"
@@ -46,5 +46,6 @@ hero_media = "hero-academic.png"
 +++
 
 **We are IT Problem solvers**
-
+<p style="font-size:15px">
 **Anything** you need help, from the most basic to Cloud Security, AI, Data Science. We can help you solve it. Just **Call us**
+</p>
